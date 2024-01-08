@@ -1,0 +1,26 @@
+.primary-background {
+    background: #000000 !important;
+    font-weight: bold;
+}
+div.main-body {
+    display: grid;
+    grid-template-areas: "navbar mainContent";
+    grid-gap: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+main#main-doc {
+    grid-area: mainContent;
+}
+
+header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+code {
+    background-color: #CCC;
+    display: block;
+    padding: 20px;
+};

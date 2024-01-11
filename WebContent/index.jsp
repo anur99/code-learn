@@ -73,7 +73,7 @@
                             <h5 class="card-title">Java Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -92,7 +92,7 @@
                             <h5 class="card-title">Python Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -111,7 +111,7 @@
                             <h5 class="card-title">C++ Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -134,7 +134,7 @@
                             <h5 class="card-title">DS and Algorithm</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -153,7 +153,7 @@
                             <h5 class="card-title">Kotlin Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -172,7 +172,7 @@
                             <h5 class="card-title">C Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -196,7 +196,7 @@
                             <h5 class="card-title">JavaScript Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -215,7 +215,7 @@
                             <h5 class="card-title">Dart Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -234,7 +234,7 @@
                             <h5 class="card-title">Scala Programming</h5>
                             <p class="card-text">Some quick example text to build on the
                                 card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-background text-white">Read
+                            <a href="loginPage.jsp" class="btn primary-background text-white">Read
                                 More...</a>
                             <button class="like">
                                 <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>

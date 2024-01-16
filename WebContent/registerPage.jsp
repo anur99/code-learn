@@ -37,7 +37,9 @@
 						</div>
 						<%
 							session.removeAttribute("msg");
-						}
+						}else{
+                                                %><div> <script src="js/success.js"></script></div> <%
+                                                }
 						%>
 						<div class="card-body">
 							<form id="reg-form" action="RegisterServlet" method="post">
@@ -110,45 +112,6 @@
 		crossorigin="anonymous"></script>
 	<script
 		src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
-	<script type="text/javascript" src="js/scripting.js"></script>
-	<script>
-	$(document).ready(function(){
-		console.log("loaded....")
-			
-		$('#reg-form').on('submit', function(event){
-			event.preventDefault();
-				
-			let form = new FormData(this);
-			$("#loader").show();
-			$("#submit-Btn").hide();
-			
-			$.ajax({
-				url: 'RegisterServlet',
-				type: 'POST',
-				data: form,
-				success: function(data,textStatus,jqXHR){
-					console.log(data)
-					$("#loader").hide();
-					$("#submit-Btn").show();
- 
-				   swal("Thanks for Registration...")
-					.then((value) => {
-				  	window.location = "loginPage.jsp" 
-				});  
-					},
-					error: function(jqXHR,textStatus,errorThrown){
-						$("#loader").hide();
-						$("#submit-Btn").show();
-						swal("Something Went Wrong....Please try Again...")
-						.then((value) => {
-						  window.location = "registerPage.jsp"
-						});
-					},
-					processData: false,
-					contentType: false
-				});
-			});
-		});
-	</script>
+	
 </body>
 </html>

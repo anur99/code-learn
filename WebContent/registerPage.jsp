@@ -37,9 +37,7 @@
 						</div>
 						<%
 							session.removeAttribute("msg");
-						}else{
-                                                %><div> <script src="js/success.js"></script></div> <%
-                                                }
+						}
 						%>
 						<div class="card-body">
 							<form id="reg-form" action="RegisterServlet" method="post">
